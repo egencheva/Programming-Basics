@@ -24,4 +24,4 @@ public class five {
         System.out.printf("Average: %.2f lv%n", avgCost);
     }
 }
-
+// test from Vesi
